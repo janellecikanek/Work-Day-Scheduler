@@ -10,15 +10,9 @@ I am using a daily planner to create a schedule. When the planner is opened the 
 When viewing the time blocks for that day, each time block is color-coded to indicate whether it is in the past, present, or future. 
 You can enter an event by clicking into a time bock. Text for that event is saved in local storage by clicking the save button for that time block. When I refresh the page the saved events persist. 
 
-
 HTML, CSS and Java Script were used in the creation of this planner. 
 
 Third party APIs used: Moment and JQuery.
-
-- What did you learn?
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 ## Usage
 
@@ -26,11 +20,25 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+ 
+    ![alt text](work day scheduler.png)
+    
+    
+    
+    ![alt text](work day scheduler.png)
 
-## Credits
+ ```md
+    ![alt text](work day scheduler.png)
+    ```
+    
+ md
+    ![alt text](work day scheduler.png)
+  
+    '
+    ![alt text](work day scheduler.png)
+ '
+    
+    ## Credits
 
 List your collaborators, if any, with links to their GitHub profiles.
 
