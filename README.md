@@ -25,21 +25,21 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ![alt text](work day scheduler.png)
     ```
  
-    ![alt text](./work day scheduler.png)
+    [alt text](work day scheduler.png)
     
+    ![Alt text](http://full/path/to/img.jpg "Optional title")
     
-    
-    ![alt text](./work day scheduler.png)
+    ![alt text](work day scheduler.png)
 
  ```md
-    ![alt text](./work day scheduler.png)
+    ![alt text](work day scheduler.png)
     ```
     
  md
-    ![alt text](./work day scheduler.png)
+    ![alt text](work day scheduler.png)
   
     '
-    ![alt text](./work day scheduler.png)
+    ![alt text](work day scheduler.png)
  '
 
 ## License
